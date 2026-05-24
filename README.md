@@ -1,1 +1,1 @@
-DEPLOYED LINK :    reelax-react-checkout.vercel.app
+DEPLOYED LINK :   https://reelax-react-checkout.vercel.app/
