@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Wallet, Tag, ChevronUp, ChevronDown, Circle, CheckCircle2, Upload } from "lucide-react";
+import { Wallet, Tag, ChevronUp, ChevronDown } from "lucide-react";
 
 const COUPONS = [
   {
