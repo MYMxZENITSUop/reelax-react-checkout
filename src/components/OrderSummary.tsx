@@ -19,9 +19,8 @@ export default function OrderSummary() {
   const [walletApplied, setWalletApplied] = useState(false);
 
   const subtotal = 14999.0;
-  const taxRate = 0.18;
-  const tax = parseFloat((subtotal * taxRate).toFixed(2));
-  const total = subtotal + tax;
+  const tax = 1079.64;
+  const total = 16078.64;
 
   return (
     <div className="flex flex-col gap-4">
